@@ -1,4 +1,4 @@
-Yo Campfire integration!
+Twitter DM Campfire integration!
 =========
 
 Ping people who are not in the chat room using via Twitter DM!
@@ -16,7 +16,7 @@ Setup
   - Update the config.yml file with real credentials.
   - Add the name to the Twitter username mapping, the name here is the one to be used in the campfire room to ping. 
   - Ask the people in your team/company to follow the Twitter account which will be used to send the DM. 
-  - ruby campfire_yo_bot.rb
+  - ruby campfire_dm_bot.rb
   
 Verify
 --- 
