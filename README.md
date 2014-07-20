@@ -1,4 +1,4 @@
-Twitter DM Campfire integration!
+Campfire integration with Twitter DM!
 =========
 
 Ping people who are not in the chat room using via Twitter DM!
