@@ -1,0 +1,11 @@
+campfire_domain: XX
+campfire_username: XX
+campfire_password: XX
+campfire_room: XX
+api_key: XX
+api_secret: XX
+access_token: XX
+access_token_secret: XX
+twitter_mapping:
+  swapnil: swapnil
+  bowen: sillybowen
